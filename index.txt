@@ -1,0 +1,10 @@
+// criando MVC 
+
+// antes de trabalhar com mongodb vamos criar uma estrutura MVC; 
+
+// isso vai fortalecer nossos conhecimentos com arquitetura; 
+
+// e tambem podemos comparar o trabalho com SQL x noSQL; 
+
+// vamos lá
+
